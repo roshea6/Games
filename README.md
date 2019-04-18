@@ -1,1 +1,2 @@
 # Games
+Some games I made or was in the process of making when I was in the Stevens Game Development Club during my Freshman year at Stevens. All good art was made by my younger sister Emily. Feel free to use anything in here but some credit would be cool especially for the art. You probably need gamemaker studio to use any of the actual game files and I'm not sure if it's compatible with GMS2. 

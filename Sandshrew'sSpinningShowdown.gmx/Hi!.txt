@@ -1,0 +1,34 @@
+Hi!
+
+Thanks for playing Sandshrew's Spinning Showdown!
+
+Instructions:
+Press space on the title screen to go to the character select screen
+
+Choose both Player 1 and Player 2's charcater using the left mouse button
+	Your selected character will be spinning 
+	The question mark unknown is not a playable character
+	Choosing it will give you a random character
+
+Once you have selected both players characters hit the green box in the bottom right corner to go to stage selection
+Choose your stage and get ready for battle!
+
+Knock the enemy player out of the Pokeball arena to score a point. 
+	First to 10 wins!
+
+Controls
+
+Player1
+Moves with WASD 
+While holding ONLY 1 of the keys hit F to launch in that direction
+WARNING: There is no way to recover from a launch if you don't hit your oponent. 
+
+Player2
+Moves with Arrow keys 
+While holding ONLY 1 of the keys hit Ctrl to launch in that direction
+WARNING: There is no way to recover from a launch if you don't hit your oponent. 
+
+Important keys:
+Esc = end the game 
+Enter = fullscreen
+
